@@ -51,4 +51,4 @@ gegede-cli fgt.cfg -w World -o fgt.gdml
 # “World” is the name of the top builder, as set in the configuration file fgt.cfg, and “fgt.gdml” is the intended output name. This will overwrite files existing in that name so be careful! The intended export format is interpreted from the -o name, in this case being GDML. Using “fgt.root” would have exported to ROOT format.
 
 
-# At the command line, run chmod u+x YourScriptFileName.sh
+# At the command line, run chmod u+x YourScriptFileName.sh 
